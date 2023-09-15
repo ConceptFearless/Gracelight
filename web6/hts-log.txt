@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Aug 2023 19:42:41 at https://demo.w3layouts.com/demosWTR/Freedom/12-02-2020/night_club-freedom-demo_Free/396658655/web/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.w3layouts.com/demosWTR/Freedom/12-02-2020/night_club-freedom-demo_Free/396658655/web/index.html -O1 "C:\My Web Sites\web6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:42:54	Warning: 	File not parsed, looks like binary: https://p.w3layouts.com/robots.txt
+19:44:25	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://codefund.io/properties/441/funder.js (from https://p.w3layouts.com/demosWTR/Freedom/12-02-2020/night_club-freedom-demo_Free/396658655/web/index.html)
+19:45:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://codefund.io/properties/441/funder.js (from https://p.w3layouts.com/demosWTR/Freedom/12-02-2020/night_club-freedom-demo_Free/396658655/web/index.html)
+19:45:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://codefund.io/properties/441/funder.js (from https://p.w3layouts.com/demosWTR/Freedom/12-02-2020/night_club-freedom-demo_Free/396658655/web/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 37 seconds : 80 links scanned, 76 files written (5591097 bytes overall) [4379164 bytes received at 27892 bytes/sec], 1918147 bytes transferred using HTTP compression in 35 files, ratio 33%, 15.8 requests per connection
+(1 errors, 3 warnings, 0 messages)
